@@ -1,0 +1,16 @@
+{
+	"folders": [
+		{
+			"path": "pla-f24-Assignment_1"
+		},
+		{
+			"path": "pla-f24-LectureAssignments"
+		}
+	],
+	"settings": {
+		"files.autoSave": "afterDelay",
+		"files.exclude": {
+			"desktop.ini": true
+		}
+	}
+}
